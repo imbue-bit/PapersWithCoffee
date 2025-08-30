@@ -35,7 +35,10 @@ git clone https://github.com/imbue-bit/PapersWithCoffee.git
 也许这是打发无聊的一小时晨读的好办法。
 
 ```bash
-python ./src/main.py
+# 如果你还没有睡
+uv add "mcp[cli]" openai python-dotenv feedparser
+cd src
+uv run client.py
 ```
 
 然后，您就可以打印她了。
