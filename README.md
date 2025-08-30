@@ -1,4 +1,7 @@
-# PapersWithCode
+# PapersWithCoffee
+
+> [!IMPORTANT]
+> 应群友要求，PapersWithCoffe 提供 MCP 服务。
 
 众所周知的——我是山东省的一名中学生，这是一种如同家族徽章般，既荣耀又沉重的身份。我的青春，是在咸咸的海风与孔老二遥远的回响中度过的，带着一种宿命般的宁静。
 
