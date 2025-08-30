@@ -1,4 +1,5 @@
 # PapersWithCoffee
+### ☕️ 在一杯咖啡的时间 (~5min) 里阅读人工智能的最新进展。《霍乱时期的智能》[J]，马尔克斯，2077.
 
 > [!IMPORTANT]
 > 应群友要求，PapersWithCoffe 提供 MCP 服务。
